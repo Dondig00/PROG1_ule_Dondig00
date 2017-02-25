@@ -19,3 +19,5 @@ puerta->http://dle.rae.es/?id=Uafmj9V
 8. botella -http://dle.rae.es/?id=5yiuECX
 9. elefante -http://dle.rae.es/?id=EW7tcfB
 10. arroz -http://dle.rae.es/?id=3oGWULX
+
+vaca
